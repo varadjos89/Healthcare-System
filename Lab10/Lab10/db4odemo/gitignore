@@ -1,0 +1,13 @@
+#build folder
+build/
+#nbproject folder
+nbproject/private/
+#test folder
+test/
+#other files
+dist/
+
+
+*.class
+*.jar
+*.war
